@@ -1,4 +1,4 @@
-## Exercise 1 - Mongo shell handson
+## Exercise 1 - Mongo shell hands on
 
 1. Start mongo daemon with a non default port for e.g`27018` and non default data folder for e.g `c:\data\db`
 2. Connect mongo shell to above daemon
@@ -21,5 +21,5 @@
        location: "karachi"
    }
    ```
-9. Add another records . (should remove the oldest one)
-10. remove all orphened records.
+9. Add another record (should remove the oldest one)
+10. Remove all `orphaned` records
