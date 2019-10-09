@@ -1,4 +1,4 @@
-## Exercise 7 - Aggregation 
+## Lesson 3 - Aggregation 
 
 In this lesson will will first practise aggregation pipeline and mapReduce.
 
